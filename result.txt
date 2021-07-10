@@ -1,0 +1,12 @@
+You are a battle droid
+0
+You are a storm trooper
+1
+You are Boba Fett
+2
+You are Han Solo
+3
+You are a sith lord
+4
+You are a jedi grand master
+5
