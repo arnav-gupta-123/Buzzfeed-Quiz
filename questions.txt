@@ -1,0 +1,20 @@
+What is your favorite sport?
+Basketball,Soccer,Lacrosse
+Lacrosse
+1
+What is your favorite food?
+Pizza,Soup,Chocolate
+Soup
+1
+What is your favorite city?
+NYC,Sacramento,Raleigh
+NYC
+1
+What is your favorite color?
+Red,Blue,Green
+Green
+1
+What is your favorite animal?
+Whale,Gorilla,Elephant
+Gorilla
+1
